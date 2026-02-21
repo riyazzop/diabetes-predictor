@@ -8,9 +8,6 @@ __pycache__/
 node_modules/
 .next/
 
-# Model (large binary)
-*.pkl
-
 # IDE
 .vscode/
 .idea/
